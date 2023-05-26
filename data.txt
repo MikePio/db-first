@@ -1,14 +1,17 @@
-1 Id                    1 ID  
-2 Condition             2 CONDIZIONE             
-3 Brand                 3 MARCA            
-4 Serie                 4 SERIE            
-5 Version               5 VERSIONE              
-6 Fuel type             6 ALIMENTAZIONE                
-7 Displacement          7 CILINDRATA                                   
-8 Power                 8 POTENZA               
-9 Transmission          9 CAMBIO                   
-10 Color                10 COLORE                            
-11 Horsepower           11 CAVALLI                   
-12 Registration date    12 DATA IMMATR.                         
-13 Kilometers           13 CHILOMETRI                  
-14 CO2 emissions        14 EMISSIONI CO2                      
+Id                    ID  
+Code                  CODICE
+Condition             CONDIZIONE             
+Brand                 MARCA            
+Serie                 SERIE            
+Version               VERSIONE              
+Fuel type             ALIMENTAZIONE                
+Displacement          CILINDRATA                                   
+Power                 POTENZA               
+Transmission          CAMBIO                   
+Color                 COLORE                            
+Horsepower            CAVALLI                   
+Registration date     DATA IMMATR.                         
+Kilometers            CHILOMETRI                  
+CO2 emissions         EMISSIONI CO2      
+Created_at            CREATO IL...                  
+Updated_at            AGGIORNATO IL...                   
